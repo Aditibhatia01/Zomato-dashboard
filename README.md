@@ -119,3 +119,6 @@ Product improvement → Boost table booking feature adoption
 
 💡 7. Summary (One-Liner)
 👉 This dashboard helps Zomato optimize growth, improve customer experience, and drive revenue using data-backed insights.
+
+screenshot link how dashboard looks like 
+ part 1 - (https://github.com/Aditibhatia01/Zomato-dashboard/blob/main/zomato%20dashboard%20.png)
