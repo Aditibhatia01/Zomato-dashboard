@@ -1,6 +1,11 @@
 # Zomato-dashboard
 key description
 1. Business Problem
+2. Purpose of This Dashboard
+3. Key Metrics (Top KPIs)
+4. Key Visuals
+
+ 1. Business Problem   
 Food delivery platforms like Zomato operate across multiple countries, cities, and cuisines.
 Key challenges:
 Understanding restaurant distribution across regions
