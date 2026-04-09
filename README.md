@@ -122,3 +122,4 @@ Product improvement → Boost table booking feature adoption
 
 screenshot link how dashboard looks like 
  part 1 - (https://github.com/Aditibhatia01/Zomato-dashboard/blob/main/zomato%20dashboard%20.png)
+ part 2 - (https://github.com/Aditibhatia01/Zomato-dashboard/blob/main/zomato%20dashboard%20part%202.png)
